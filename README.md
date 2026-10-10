@@ -8,6 +8,7 @@ An enterprise-grade, autonomous research system built with LangGraph, LlamaIndex
 - Deigratia Daniels
 - Nithin Kumar Kandagatla
 - Roland Johnson
+- Fnu Heero
 
 ## Architecture Overview
 
